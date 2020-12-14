@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 latest documentation
+=======
+hi documentation
+>>>>>>> d8b694b3bffb505d27c4744c2878e76d9f96d58e
